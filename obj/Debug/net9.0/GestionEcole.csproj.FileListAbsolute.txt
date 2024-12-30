@@ -1,0 +1,8 @@
+C:\Users\Metha\Desktop\GestionEcole\obj\Debug\net9.0\GestionEcole.csproj.AssemblyReference.cache
+C:\Users\Metha\Desktop\GestionEcole\obj\Debug\net9.0\GestionEcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metha\Desktop\GestionEcole\obj\Debug\net9.0\GestionEcole.AssemblyInfoInputs.cache
+C:\Users\Metha\Desktop\GestionEcole\obj\Debug\net9.0\GestionEcole.AssemblyInfo.cs
+C:\Users\Metha\Desktop\GestionEcole\obj\Debug\net9.0\GestionEcole.csproj.CoreCompileInputs.cache
+C:\Users\Metha\Desktop\GestionEcole\obj\Debug\net9.0\GestionEcole.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Metha\Desktop\GestionEcole\obj\Debug\net9.0\GestionEcole.RazorAssemblyInfo.cache
+C:\Users\Metha\Desktop\GestionEcole\obj\Debug\net9.0\GestionEcole.RazorAssemblyInfo.cs

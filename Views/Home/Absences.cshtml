@@ -1,0 +1,16 @@
+@model IEnumerable<Absence>
+
+<h1>Mes Absences</h1>
+<table>
+    <tr>
+        <th>Date</th>
+        <th>Cours</th>
+    </tr>
+    @foreach (var absence in Model)
+    {
+        <tr>
+            <td>@absence.Date.ToShortDateString()</td>
+            <td>@absence.Cours.Module</td>
+        </tr>
+    }
+</table>
